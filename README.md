@@ -13,6 +13,7 @@ Salvar uma grana enquanto estamos criando ambiente para estudar. Simples.
 - [ ] Google Cloud - Free tier
 - [ ] Azure - Free tier
 - [ ] Digital Ocean - Free tier 100 doletas por 90 dias
+- [ ] [Linode](https://login.linode.com/signup?promo=docs080123) - Free tier 100 doletas por 90 dias
 - [ ] Magalu Cloud - Free tier - 400 reais
 - [ ] Cloud2Africa - Free tier
 - [ ] civo - Free tier
