@@ -14,73 +14,77 @@ Salvar uma grana enquanto estamos criando ambiente para estudar. Simples.
 - [ ] Azure - Free tier
 - [ ] Digital Ocean - Free tier 100 doletas por 90 dias
 - [ ] [Linode](https://login.linode.com/signup?promo=docs080123) - Free tier 100 doletas por 90 dias
+- [ ] [AWS](http://aws.amazon.com/free/) - Free tier
+- [ ] [Oracle](https://www.oracle.com/cloud/free/) - Cluster Kubernetes Gratuito pra sempre
+- [ ] [Google Cloud](https://cloud.google.com/free) - Free tier
+- [ ] [Azure](https://azure.microsoft.com/en-us/pricing/free-services) - Free tier
+- [ ] [Digital Ocean](https://try.digitalocean.com/freetrialoffer/) - Free tier 100 doletas por 90 dias
 - [ ] Magalu Cloud - Free tier - 400 reais
 - [ ] Cloud2Africa - Free tier
 - [ ] civo - Free tier
 
 ### CI/CD
 
-- [ ] Github Actions - (For Education - Verificar | 1 ano de dominio .me)
-- [ ] Gitlab CI - Free Shared Runner
-- [ ] Circle CI - Free tier
+- [ ] [Github Actions](https://github.com/edu/students) - (For Education - Verificar | 1 ano de dominio .me)
+- [ ] [Gitlab CI](https://about.gitlab.com/) - Free Shared Runner
+- [ ] [Circle CI](https://circleci.com/docs/plan-free/) - Free tier
 
 #### Argo CI/CD
 
-- [ ] Codefresh - Community Edition
+- [ ] [Codefresh](https://codefresh.io/) - Community Edition
 
 ### Kubernetes
 
-- [ ] K3s - Free
-- [ ] Kind - Free
-- [ ] Minikube - Free
-- [ ] Oracle Cloud - Cluster Kubernetes Gratuito pra sempre
-- [ ] k3d - Free
+- [ ] [K3s](https://k3s.io/) - Free
+- [ ] [Kind](https://kind.sigs.k8s.io/) - Free
+- [ ] [Minikube](https://minikube.sigs.k8s.io/docs/start/) - Free
+- [ ] [Oracle Cloud](https://www.oracle.com/cloud/free/) - Cluster Kubernetes Gratuito pra sempre
+- [ ] [k3d](https://k3d.io/v5.6.3/) - Free
 
 ### Registry
 
-- [ ] Docker Hub - Free
-- [ ] Github Container Registry - Free
-- [ ] Gitlab Container Registry - Free
+- [ ] [Docker Hub](https://hub.docker.com/) - Free
+- [ ] [Github Container Registry](https://docs.github.com/pt/packages/working-with-a-github-packages-registry/working-with-the-container-registry) - Free
+- [ ] [Gitlab Container Registry](https://docs.gitlab.com/ee/user/packages/container_registry/) - Free
 
 ### Blog/Docs
 
-- [ ] Github Pages - Free
+- [ ] [Github Pages](https://pages.github.com/) - Free
 
 ### Observabilidade
 
-- [ ] Grafana Cloud - Free tier
-- [ ] Datadog - Free tier
-- [ ] New Relic - Free tier
-- [ ] Zabbix - Free
-- [ ] Prometheus - Free
+- [ ] [Grafana Cloud](https://grafana.com/products/cloud/) - Free tier
+- [ ] [Datadog](https://www.datadoghq.com/free-datadog-trial/) - Free tier
+- [ ] [New Relic](https://newrelic.com/pt/pricing/free-tier) - Free tier
+- [ ] [Zabbix](https://www.zabbix.com/index) - Free
+- [ ] [Prometheus](https://prometheus.io/) - Free
 
 ### DNS
 
-- [ ] sslip.io - Free
-- [ ] nip.io - Free
+- [ ] [sslip.io](https://sslip.io/) - Free
+- [ ] [nip.io](https://nip.io/) - Free
 - [ ] xip.io - Free
 - [ ] ngrok - Free
 
 ### Certificado SSL
 
-- [ ] Lets Encrypt + Certbot - Free
-- [ ] Cert-Manager - Free
-
+- [ ] [Lets Encrypt + Certbot](https://letsencrypt.org/pt-br/getting-started/) - Free
+- [ ] [Cert-Manager](https://cert-manager.io/) - Free
 
 ### Load Balancer para Kubernetes
 
-- [ ] MetalLB - Free
+- [ ] [MetalLB](https://metallb.universe.tf/) - Free
 
 ### Cloud local
 
-- [ ] Localstack - Free
+- [ ] [Localstack](https://github.com/localstack/localstack) - Free
 
 ### Backup
 
-- [ ] Velero + Magalu - Free
+- [ ] [Velero](https://velero.io/) + [Magalu](https://magalu.cloud/) - Free
 
 ### Comunidade
 
-- [ ] CaravanaCloud - Free
-- [ ] Mentoria DevOps - Free
-- [ ] Núcleo de Tecnologia do MTST - Free
+- [ ] [CaravanaCloud](https://github.com/CaravanaCloud) - Free
+- [ ] [Mentoria DevOps](https://mentoriadevops.io/) - Free
+- [ ] [Núcleo de Tecnologia do MTST](https://nucleodetecnologia.com.br/) - Free
