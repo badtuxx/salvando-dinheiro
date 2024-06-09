@@ -8,6 +8,12 @@ Salvar uma grana enquanto estamos criando ambiente para estudar. Simples.
 
 ### Cloud
 
+- [ ] AWS - Free tier
+- [ ] Oracle - Cluster Kubernetes Gratuito pra sempre
+- [ ] Google Cloud - Free tier
+- [ ] Azure - Free tier
+- [ ] Digital Ocean - Free tier 100 doletas por 90 dias
+- [ ] [Linode](https://login.linode.com/signup?promo=docs080123) - Free tier 100 doletas por 90 dias
 - [ ] [AWS](http://aws.amazon.com/free/) - Free tier
 - [ ] [Oracle](https://www.oracle.com/cloud/free/) - Cluster Kubernetes Gratuito pra sempre
 - [ ] [Google Cloud](https://cloud.google.com/free) - Free tier
