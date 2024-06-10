@@ -44,6 +44,7 @@ Salvar uma grana enquanto estamos criando ambiente para estudar. Simples.
 ### Blog/Docs
 
 - [ ] [Github Pages](https://pages.github.com/) - Free
+- [ ] [Cloudflare Pages](https://pages.cloudflare.com/) - Free
 
 ### Observabilidade
 
