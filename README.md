@@ -13,6 +13,7 @@ Salvar uma grana enquanto estamos criando ambiente para estudar. Simples.
 - [ ] [Google Cloud](https://cloud.google.com/free) - Free tier
 - [ ] [Azure](https://azure.microsoft.com/en-us/pricing/free-services) - Free tier
 - [ ] [Digital Ocean](https://try.digitalocean.com/freetrialoffer/) - Free tier 100 doletas por 90 dias
+- [ ] [Huawei Cloud](https://activity.huaweicloud.com/intl/pt-br/free_packages/index.html) - Trial and Free tier
 - [ ] Magalu Cloud - Free tier - 400 reais
 - [ ] Cloud2Africa - Free tier
 - [ ] civo - Free tier
@@ -52,6 +53,7 @@ Salvar uma grana enquanto estamos criando ambiente para estudar. Simples.
 - [ ] [New Relic](https://newrelic.com/pt/pricing/free-tier) - Free tier
 - [ ] [Zabbix](https://www.zabbix.com/index) - Free
 - [ ] [Prometheus](https://prometheus.io/) - Free
+- [ ] [SigNoz](https://signoz.io/) - Free
 
 ### DNS
 
