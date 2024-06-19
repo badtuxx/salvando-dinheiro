@@ -44,6 +44,7 @@ Salvar uma grana enquanto estamos criando ambiente para estudar. Simples.
 ### Blog/Docs
 
 - [ ] [Github Pages](https://pages.github.com/) - Free
+- [ ] [Gitlab Pages](https://docs.gitlab.com/ee/user/project/pages/) - Free
 
 ### Observabilidade
 
